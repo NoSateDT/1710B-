@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("1710B 代码库");
+            Console.WriteLine("1710B 代码库");
         }
     }
 }
